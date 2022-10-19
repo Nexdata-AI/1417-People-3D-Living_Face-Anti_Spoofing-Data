@@ -1,8 +1,10 @@
 # 1417-People-3D-Living_Face-Anti_Spoofing-Data
-https://www.datatang.ai/datasets/1089
+
 
 ## Description
 1,417 People – 3D Living_Face & Anti_Spoofing Data. The collection scenes include indoor and outdoor scenes. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes various expressions, facial postures, anti-spoofing samples, multiple light conditions, multiple scenes. This data can be used for tasks such as 3D face recognition, 3D Living_Face & Anti_Spoofing.
+
+For more details, please refer to the link: https://bit.ly/3C79anM
 
 ## Data size
 1,417 people, 168 images for each person
@@ -27,3 +29,6 @@ label the person – ID, race, gender, age, facial action, collecting scene, lig
 
 ## Accuracy
 based on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of label annotation is not less than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
